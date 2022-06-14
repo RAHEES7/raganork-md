@@ -38,7 +38,7 @@ Module({
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'917994206751'(";")[2]+'?text=Hey+bro'
     }
 }, {
     quickReplyButton: {
@@ -81,7 +81,7 @@ if (setarr[i].use === 'utility') {
   var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
-┃❉│ Owner : ${BOT_INFO.split(";")[1]}
+┃❉│ Owner : ${ɪᴛꜱᴍᴇ ʀᴀʜᴇᴇꜱ(";")[1]}
 ┃❉│ User : ${message.senderName}
 ┃❉│ Mode : ${MODE}
 ┃❉│ Server : ${config.HEROKU.APP_NAME}
